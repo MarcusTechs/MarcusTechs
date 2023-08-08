@@ -17,4 +17,4 @@
 📱 Siga-me nas redes sociais:
 LinkedIn: https://br.linkedin.com/in/marcus-erick-874bba268
 
-
+GET  /badge/:https://marcustechs.github.io/portefolio/

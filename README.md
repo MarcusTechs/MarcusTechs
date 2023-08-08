@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">>Minhas Redes< Sociais</h2>
+<h2 align="center">>Minhas Redes Sociais<</h2>
 <p align="center">
   Conecte-se comigo nas redes sociais:<br/>
   <a href="https://www.linkedin.com/in/marcus-erick-874bba268/" target="_blank">

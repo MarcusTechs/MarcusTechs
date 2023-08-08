@@ -16,6 +16,6 @@
 
 📱 Siga-me nas redes sociais:
 LinkedIn: https://br.linkedin.com/in/marcus-erick-874bba268
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
 GET  /badge/:https://marcustechs.github.io/portefolio/
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>

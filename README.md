@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">>Projeto cursos< gratuitos</h2>
+<h2 align="center">>Projeto cursos gratuitos<</h2>
 <p align="center">
 <a href="https://github.com/marcustechs/Free-way">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=tokyonight" />

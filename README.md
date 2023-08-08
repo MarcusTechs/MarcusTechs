@@ -18,3 +18,4 @@
 LinkedIn: https://br.linkedin.com/in/marcus-erick-874bba268
 
 GET  /badge/:https://marcustechs.github.io/portefolio/
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>

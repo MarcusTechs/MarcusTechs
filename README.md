@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">> Minhas Redes Sociais</h2>
+<h2 align="center">>Minhas Redes< Sociais</h2>
 <p align="center">
   Conecte-se comigo nas redes sociais:<br/>
   <a href="https://www.linkedin.com/in/marcus-erick-874bba268/" target="_blank">
@@ -18,7 +18,7 @@
     
 ---
 
-<h2 align="center">> Portefólio</h2>
+<h2 align="center">>Portefólio<</h2>
 <p align="center">
   
   <a href="https://marcustechs.github.io/portefolio/index.html">
@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marcustechs&&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </p>
 
-<h2 align="center">> Skills</h2>
+<h2 align="center">>Skills<</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">Projeto cursos gratuitos</h2>
+<h2 align="center">>Projeto cursos< gratuitos</h2>
 <p align="center">
 <a href="https://github.com/marcustechs/Free-way">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=tokyonight" />

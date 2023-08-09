@@ -45,11 +45,11 @@
 </p>
 
 <!-- Fim das Skills -->
-
 ***
 
-<br/>
-<h3 align="center">⚡ Status do repositório </h3>
+<h3 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" alt="Github Stats" width="30px" style="vertical-align: middle;">Github Stats
+</h3>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
@@ -62,7 +62,9 @@
 
 ***
 
-<h3 align="center">🚀 Projetos </h3>
+<h3 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/643c3e0d-fde9-4580-9146-a0db9b8ba17b" alt="Projetos" width="30px" style="vertical-align: middle;">Github Projects
+</h3>
 <p align="center">
 <a href="https://github.com/marcustechs/Free-way">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=tokyonight" />
@@ -75,4 +77,13 @@
 </a>
 
 ***
+<h3 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/4dae6452-6987-4467-8626-33456b9b186c" alt="Projetos" width="30px" style="vertical-align: middle;">Github Projects
+</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="50%" src="https://github-profile-trophy.vercel.app/?username=MarcusTechs&row=2&column=3" />
+  </a>
+</div>
 
+***

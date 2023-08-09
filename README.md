@@ -12,8 +12,9 @@
 <div align="center">
     <a href="https://marcustechs.github.io/portefolio/index.html">
         <img src="https://img.shields.io/badge/Portefólio-1E772C?style=for-the-badge&logo=GitHub" alt="Portfólio">
+  <img src="https://komarev.com/ghpvc/?username=marcustechs&color=green" alt="Profile Views" />
+
     </a>
-![](https://komarev.com/ghpvc/?username=marcustechs&color=green)
 </div>
 
 

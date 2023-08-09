@@ -13,6 +13,7 @@
     <a href="https://marcustechs.github.io/portefolio/index.html">
         <img src="https://img.shields.io/badge/Portefólio-1E772C?style=for-the-badge&logo=GitHub" alt="Portfólio">
     </a>
+![](https://komarev.com/ghpvc/?username=marcustechs&color=green)
 </div>
 
 
@@ -88,4 +89,3 @@
 
 ***
 
-![](https://komarev.com/ghpvc/?username=marcustechs&color=green)

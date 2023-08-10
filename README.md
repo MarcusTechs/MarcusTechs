@@ -32,12 +32,14 @@
 
 <!-- Skills -->
 
-<h3 align="center">
+<h2 align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" alt="Github Stats" width="30px" style="vertical-align: middle;">Github Stats
+</h2>
+
 <div align="center">
 <table>
   <tr>
-    <td valign="top"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=54i" alt="Dev Card" width="100%" height="auto"/></td>
+    <td valign="top"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=kqi" alt="Dev Card" width="80%""/></td>
     <td valign="top">
      <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
@@ -49,20 +51,6 @@
 <!-- Fim das Skills -->
 ***
 
-<h3 align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" alt="Github Stats" width="30px" style="vertical-align: middle;">Github Stats
-</h3>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=marcustechs&show_icons=true" alt="marcustechs">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcusTechs&locale=pt_BR&card_width=494" alt="marcustechs">
-	</a>
-	<br/>
-</p>
-<br/>
-
-***
 
 <h3 align="center">
   <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/3e73dc8d-3762-4cfc-ad23-e7bf73f438d5" alt="Projetos" width="30px" style="vertical-align: middle;">Cursos gratuitos

@@ -90,3 +90,4 @@
 
 ***
 
+<a href="https://app.daily.dev/MarcusTechs"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=w1z" width="400" alt="Marcus Erick de Oliveira Silva's Dev Card"/></a>

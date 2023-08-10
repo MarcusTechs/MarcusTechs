@@ -39,10 +39,10 @@
 <div align="center">
 <table>
   <tr>
-    <td valign="top"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=kqi" alt="Dev Card" width="80%""/></td>
+    <td valign="top"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=kqi" alt="Dev Card" width="100%""/></td>
     <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=MarcusTechs&show_icons=true&theme=dark" width="130%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcusTechs&theme=dark&card_width=400" width="130%"/>
     </td>
   </tr>
 </table>
@@ -57,8 +57,7 @@
 </h3>
 <p align="center">
 <a href="https://github.com/marcustechs/Free-way">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=tokyonight" />
-
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=dark" />
 </a>
 
 ***
@@ -73,5 +72,3 @@
 
 
 ***
-
-<a href="https://app.daily.dev/MarcusTechs"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=w1z" width="400" alt="Marcus Erick de Oliveira Silva's Dev Card"/></a>

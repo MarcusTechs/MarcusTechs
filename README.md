@@ -77,6 +77,21 @@
     <td valign="top">
      <img src="https://github-readme-stats.vercel.app/api?username=MarcusTechs&show_icons=true&theme=dark" width="130%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcusTechs&theme=dark&card_width=400" width="130%"/>
+<h3 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/9421f2b8-075d-4bed-b54f-5c82e004edcc" alt="Projetos" width="30px" style="vertical-align: middle;"> Projetos
+</h3>
+<div align="center" style="margin-top:;">
+
+[![Meus Projetos](https://img.shields.io/badge/Meus-Projetos-brightgreen)](https://seu-link-aqui)
+[![Projetos Bode327](https://img.shields.io/badge/Projetos-Bode327-blue)](https://seu-link-aqui)
+
+[![Projetos Igui](https://img.shields.io/badge/Projetos-Igui-red)](https://seu-link-aqui)
+[![Projetos Linkedin](https://img.shields.io/badge/Projetos-Linkedin-informational)](https://seu-link-aqui)
+
+</div>
+
+
+</h3>
     </td>
   </tr>
 </table>
@@ -114,3 +129,6 @@
 
 ***
 
+<h2 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/56c03960-a832-4830-846e-b61dda163238" alt="Projetos" width="30px" style="vertical-align: middle;">Certificados
+</h2>

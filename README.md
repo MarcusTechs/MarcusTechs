@@ -20,7 +20,23 @@
 <a href="https://docs.github.com/en/developers" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="https://archiveprogram.github.com/" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
 
 </div>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/marcus-erick-874bba268/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
+<a href="https://app.daily.dev/MarcusTechs">
+  <img src="https://img.shields.io/badge/Daily.dev-100000?style=for-the-badge&logo=daily.dev&font=Caveat" alt="DailyDev">
+</a>
+
+<a href="https://github.com/MarcusTechs">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=181717&logoColor=white&font=Pacifico" alt="Github">
+</a>
+
+
+</p>
+</div>
 
 <h4 align="center"> Desenvolvedor, Profissional em cibersegurança, Gestor de TI, Analista de redes </h4>
 
@@ -96,7 +112,6 @@
 </div>
 <br />
 
+***
 
-<div align="center">
-    <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/ef2be180-2d10-4ea7-bd68-d3f716bfb5f2" alt="Jogue Galaga!" >Jogue Galaga
-</div>
+

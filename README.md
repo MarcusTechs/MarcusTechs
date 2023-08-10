@@ -28,27 +28,23 @@
 <!-- Fim do Cabeçalho -->
 
 
+***
 
 <!-- Skills -->
 
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-</a>
-    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"
-         alt="Gitter">
-  </a>
-      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/GitHub%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Code">
-</a>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-   </a>
-   <img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="GNU">
-
-</p>
+<h3 align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" alt="Github Stats" width="30px" style="vertical-align: middle;">Github Stats
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="https://api.daily.dev/devcards/204dd54e1d3543f0a4519f5e8b28179d.png?r=54i" alt="Dev Card" width="100%" height="auto"/></td>
+    <td valign="top">
+     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
 <!-- Fim das Skills -->
 ***

@@ -96,3 +96,7 @@
 </div>
 <br />
 
+
+<div align="center">
+    <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/ef2be180-2d10-4ea7-bd68-d3f716bfb5f2" alt="Jogue Galaga!" >Jogue Galaga
+</div>

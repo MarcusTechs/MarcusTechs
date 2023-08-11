@@ -129,6 +129,4 @@
 
 ***
 
-<h2 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/56c03960-a832-4830-846e-b61dda163238" alt="Projetos" width="30px" style="vertical-align: middle;">Certificados
-</h2>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quando%20você%20entende%20coisas,%20não%20há%20mais%20mágica%20&author=Tim%20%20Berners-Lee" /> </p>

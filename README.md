@@ -77,16 +77,10 @@
     <td valign="top">
      <img src="https://github-readme-stats.vercel.app/api?username=MarcusTechs&show_icons=true&theme=dark" width="130%"/>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcusTechs&theme=dark&card_width=400" width="130%"/>
-<h3 align="center">
-  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/9421f2b8-075d-4bed-b54f-5c82e004edcc" alt="Projetos" width="30px" style="vertical-align: middle;"> Projetos
-</h3>
 <div align="center" style="margin-top:;">
 
-[![Meus Projetos](https://img.shields.io/badge/Meus-Projetos-brightgreen)](https://seu-link-aqui)
-[![Projetos Bode327](https://img.shields.io/badge/Projetos-Bode327-blue)](https://seu-link-aqui)
+<img src="https://readme-components.vercel.app/api?component=experience&company=CRED_CLUB&role=%20SecOps%20&location=Brasil&fill=black" width="130%" height="200%" />
 
-[![Projetos Igui](https://img.shields.io/badge/Projetos-Igui-red)](https://seu-link-aqui)
-[![Projetos Linkedin](https://img.shields.io/badge/Projetos-Linkedin-informational)](https://seu-link-aqui)
 
 </div>
 
@@ -129,4 +123,8 @@
 
 ***
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Quando%20você%20entende%20as%20coisas,%20não%20há%20mais%20mágica%20&author=Tim%20%20Berners-Lee" /> </p>
+<h1 align="center">
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;"> Meus repositorios
+  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/a218165b-4844-4796-8007-559f05f58d62" alt="Github Stats" width="30px" style="vertical-align: middle;">
+</h1>
+

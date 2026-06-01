@@ -54,55 +54,104 @@ class MarcusSilva:
 <td width="50%">
 
 ### `[01]` Anti-DDoS Engine
-```
-STATUS  ████████████ ACTIVE
-TYPE    Defensive Tool · Python
-```
-> Mitigação em tempo real de ataques distribuídos. Detecta padrões de flood, identifica origens maliciosas e aplica regras de bloqueio automaticamente. **Botnet vs Botnet** — hackear o ataque com a mesma arma.
 
-`#Python` `#Sockets` `#Threading` `#FirewallRules` `#DefOps`
+```text
+STATUS  ████████████ ACTIVE
+TYPE    Security Platform · Python
+```
+
+> Plataforma de mitigação de ataques distribuídos em tempo real. Analisa padrões de tráfego, detecta anomalias e aplica respostas automáticas para proteção da infraestrutura.
+
+`#Python` `#Networking` `#Security` `#Automation` `#DefOps`
 
 </td>
+
 <td width="50%">
 
-### `[02]` Botnet Defensiva
-```
-STATUS  ████████████ ACTIVE
-TYPE    Counter-Attack Net · Python
-```
-> Rede distribuída de agentes que neutralizam infraestrutura de ataque. Usa a arquitetura C2 das próprias botnets para desmontá-las de dentro.
+### `[02]` Security Operations Framework
 
-`#Python` `#C2` `#Networking` `#Automation` `#Cyber`
+```text
+STATUS  ████████████ ACTIVE
+TYPE    Cyber Defense Lab
+```
+
+> Ambiente para pesquisa, monitoramento e desenvolvimento de soluções defensivas voltadas para segurança de redes, análise de ameaças e automação operacional.
+
+`#Cybersecurity` `#Automation` `#Python` `#Networking` `#Monitoring`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
-### `[03]` CRM Industrial — Hidrauluc
-```
+### `[03]` Industrial Management System
+
+```text
 STATUS  ████████████ PRODUCTION
-TYPE    Full Stack · PHP + MySQL
+TYPE    ERP · PHP + MySQL
 ```
-> Sistema completo de gestão de clientes, pedidos e pipeline de vendas para indústria hidráulica. Dashboard, relatórios e integração com operações.
 
-`#PHP` `#MySQL` `#HTML` `#CSS` `#Dashboard`
+> Sistema completo de gerenciamento industrial desenvolvido para centralizar clientes, pedidos, produção, estoque, financeiro e indicadores operacionais da empresa.
+
+`#PHP` `#MySQL` `#ERP` `#Dashboard` `#Business`
 
 </td>
+
 <td width="50%">
 
-### `[04]` hidrauluc.com.br
-```
-STATUS  ████████████ LIVE
-TYPE    Web + Marketing Digital
-```
-> Presença digital completa: site institucional, SEO, tráfego pago, social media e design gráfico. Da infra ao anúncio, tudo sob gestão própria.
+### `[04]` Smart Inventory AI Scanner
 
-`#Web` `#SEO` `#GoogleAds` `#Design` `#Marketing`
+```text
+STATUS  ████████████ ACTIVE
+TYPE    Computer Vision · AI
+```
+
+> Sistema inteligente de leitura e identificação de produtos utilizando Inteligência Artificial para conferência de estoque, inventários e automação de processos logísticos.
+
+`#AI` `#ComputerVision` `#Python` `#Automation` `#Inventory`
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### `[05]` QR Code Hydraulic Management
+
+```text
+STATUS  ████████████ PRODUCTION
+TYPE    Industrial Tracking System
+```
+
+> Plataforma de rastreabilidade baseada em QR Code para mangueiras, conexões e componentes hidráulicos, permitindo histórico completo, identificação rápida e gestão operacional.
+
+`#QRCode` `#Tracking` `#Industry` `#PHP` `#MySQL`
+
+</td>
+
+<td width="50%">
+
+### `[06]` hidrauluc.com.br
+
+```text
+STATUS  ████████████ LIVE
+TYPE    Web Platform + Digital Growth
+```
+
+> Ecossistema digital completo da empresa incluindo website institucional, SEO, campanhas Google Ads, analytics, conteúdo e estratégias de geração de leads.
+
+`#Web` `#SEO` `#Marketing` `#GoogleAds` `#Analytics`
+
+</td>
+
 </tr>
 </table>
+
 
 ---
 

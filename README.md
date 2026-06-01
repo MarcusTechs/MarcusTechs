@@ -104,12 +104,6 @@ TYPE    Web + Marketing Digital
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/MarcusTechs/Free-way">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusTechs&repo=Free-way&theme=chartreuse-dark&hide_border=true&title_color=00FF41&icon_color=00FF41" />
-  </a>
-</p>
-
 ---
 
 ## `> ARSENAL`

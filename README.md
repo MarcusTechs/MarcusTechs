@@ -236,6 +236,4 @@ TYPE    Web + Marketing Digital
 
 **`[31] 99822-2532`** · **`marcusertech@gmail.com`** · **`Contagem · MG · Brasil`**
 
-![wave](https://raw.githubusercontent.com/MarcusTechs/MarcusTechs/main/assets/footer.svg)
-
 </div>

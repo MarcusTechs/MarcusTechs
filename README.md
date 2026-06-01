@@ -1,18 +1,4 @@
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ███╗   ███╗ █████╗ ██████╗  ██████╗██╗   ██╗███████╗             ║
-║   ████╗ ████║██╔══██╗██╔══██╗██╔════╝██║   ██║██╔════╝             ║
-║   ██╔████╔██║███████║██████╔╝██║     ██║   ██║███████╗             ║
-║   ██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║╚════██║             ║
-║   ██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝███████║             ║
-║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝             ║
-║                                                                      ║
-║          IT Manager · Cybersecurity · Pentest · Full Stack           ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%5BROOT%40MARCUSTECHS+~%5D%24+whoami;IT+Manager+%7C+Cyber+Defender+%7C+Python+Dev+%7C+MikroTik+%7C+Pentest" alt="typing" />
 

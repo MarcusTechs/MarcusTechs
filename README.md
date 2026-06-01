@@ -267,15 +267,6 @@ TYPE    Web Platform + Digital Growth
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "Ninguém nasce perdedor ou vencedor.                          ║
-║     Você é o que escolhe ser."                                   ║
-║                                                                  ║
-║                              — Marcus Silva                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 **`[31] 99822-2532`** · **`marcusertech@gmail.com`** · **`Contagem · MG · Brasil`**
 

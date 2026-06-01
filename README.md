@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/─────────────────────────────────────────────────────────-0d1117?style=flat&logoColor=0d1117&labelColor=0d1117)](https://github.com/MarcusTechs)
+[![LinkedIn](https://img.shields.io/badge/0d1117?style=flat&logoColor=0d1117&labelColor=0d1117)](https://github.com/MarcusTechs)
 [![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-silva-874bba268/)
 [![Portfolio](https://img.shields.io/badge/◈%20PORTFÓLIO-00FF41?style=flat-square&logo=githubpages&logoColor=black)](https://marcustechs.github.io/portefolio/index.html)
 [![Email](https://img.shields.io/badge/◈%20EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marcusertech@gmail.com)

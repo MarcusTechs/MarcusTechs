@@ -1,282 +1,114 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=500&color=00FF41&center=false&vCenter=true&multiline=true&width=700&height=80&lines=%5BROOT%40MARCUSTECHS+~%5D%24+whoami;IT+Manager+%7C+Cyber+Defender+%7C+Full+Stack+%7C+MikroTik+%7C+Pentest" alt="typing" />
+<!--- ✨ MARCUS SILVA — IT COMMAND CENTER v2.0 ✨ --->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=2&color=00F0FF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=%24_whoami">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=2&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=%24_whoami">
+  </picture>
 </p>
 
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&height=35&lines=IT+Manager+|+Cyber+Defender+|+Full+Stack+|+MikroTik+|+Pentest">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=500&color=000000&center=true&vCenter=true&width=700&height=35&lines=IT+Manager+|+Cyber+Defender+|+Full+Stack+|+MikroTik+|+Pentest">
+  </picture>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-silva-874bba268/)
-[![Portfolio](https://img.shields.io/badge/◈%20PORTFÓLIO-00FF41?style=flat-square&logo=githubpages&logoColor=black)](https://marcustechs.github.io/portefolio/index.html)
-[![Email](https://img.shields.io/badge/◈%20EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marcusertech@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=marcustechs&color=00ff41&style=flat-square&label=◈+PROFILE+VIEWS)](https://github.com/MarcusTechs)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcus-silva-874bba268/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F&color=0077B5"/></a>
+  <a href="https://marcustechs.github.io/portefolio/index.html"><img src="https://img.shields.io/badge/PORTFOLIO-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=0A192F&color=00F0FF"/></a>
+  <a href="mailto:marcusertech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F&color=EA4335"/></a>
+</p>
 
 ---
 
-## `> SYSTEM INIT`
+### `❯❯ SYSTEM OVERVIEW`
 
 ```python
 #!/usr/bin/env python3
-# marcus_silva.py — kernel v2024.1
+# -*- coding: utf-8 -*-
 
 class MarcusSilva:
     """
-    IT Manager · Cyber Defender · Full Stack Dev
-    Contagem, Minas Gerais, Brasil
+    Hi-level profile: Security-focused IT Manager & Full Stack Architect
     """
-    os       = "Kali Linux 2024 / Windows Server"
-    uptime   = "estudando desde os 10 anos"
-    employer = "Hidrauluc | Gestor de TI (2023→)"
-    certs    = 70   # e contando
-
-    stack = {
-      "offensive" : ["Metasploit","Nmap","Wireshark","Burp Suite","John"],
-      "defensive" : ["Fortinet","OWASP","Forensics","Firewall","LGPD"],
-      "network"   : ["MikroTik","GPON/EPON","TCP/IP","VPN","DNS"],
-      "dev"       : ["Python","PHP","SQL","HTML/CSS","Shell","Dart"],
-      "cloud"     : ["Oracle Cloud","AWS SageMaker","Infra na Nuvem"],
-      "data"      : ["Data Engineering","BI","MySQL","Data Science"],
-      "marketing" : ["Tráfego Pago","SEO","Design","Google Ads"],
-    }
-
-    def __repr__(self):
-        return "⚡ Always learning. Always hacking (ethically)."
-```
-
-<br clear="right"/>
-
----
-
-## `> ACTIVE PROJECTS`
-
-<table>
-<tr>
-<td width="50%">
-
-### `[01]` Anti-DDoS Engine
-
-```text
-STATUS  ████████████ ACTIVE
-TYPE    Security Platform · Python
-```
-
-> Plataforma de mitigação de ataques distribuídos em tempo real. Analisa padrões de tráfego, detecta anomalias e aplica respostas automáticas para proteção da infraestrutura.
-
-`#Python` `#Networking` `#Security` `#Automation` `#DefOps`
-
-</td>
-
-<td width="50%">
-
-### `[02]` Security Operations Framework
-
-```text
-STATUS  ████████████ ACTIVE
-TYPE    Cyber Defense Lab
-```
-
-> Ambiente para pesquisa, monitoramento e desenvolvimento de soluções defensivas voltadas para segurança de redes, análise de ameaças e automação operacional.
-
-`#Cybersecurity` `#Automation` `#Python` `#Networking` `#Monitoring`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### `[03]` Industrial Management System
-
-```text
-STATUS  ████████████ PRODUCTION
-TYPE    ERP · PHP + MySQL
-```
-
-> Sistema completo de gerenciamento industrial desenvolvido para centralizar clientes, pedidos, produção, estoque, financeiro e indicadores operacionais da empresa.
-
-`#PHP` `#MySQL` `#ERP` `#Dashboard` `#Business`
-
-</td>
-
-<td width="50%">
-
-### `[04]` Smart Inventory AI Scanner
-
-```text
-STATUS  ████████████ ACTIVE
-TYPE    Computer Vision · AI
-```
-
-> Sistema inteligente de leitura e identificação de produtos utilizando Inteligência Artificial para conferência de estoque, inventários e automação de processos logísticos.
-
-`#AI` `#ComputerVision` `#Python` `#Automation` `#Inventory`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### `[05]` QR Code Hydraulic Management
-
-```text
-STATUS  ████████████ PRODUCTION
-TYPE    Industrial Tracking System
-```
-
-> Plataforma de rastreabilidade baseada em QR Code para mangueiras, conexões e componentes hidráulicos, permitindo histórico completo, identificação rápida e gestão operacional.
-
-`#QRCode` `#Tracking` `#Industry` `#PHP` `#MySQL`
-
-</td>
-
-<td width="50%">
-
-### `[06]` hidrauluc.com.br
-
-```text
-STATUS  ████████████ LIVE
-TYPE    Web Platform + Digital Growth
-```
-
-> Ecossistema digital completo da empresa incluindo website institucional, SEO, campanhas Google Ads, analytics, conteúdo e estratégias de geração de leads.
-
-`#Web` `#SEO` `#Marketing` `#GoogleAds` `#Analytics`
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-## `> ARSENAL`
-
-<div align="center">
-
-**[ OFFENSIVE & DEFENSIVE ]**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-**[ DEVELOPMENT ]**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**[ INFRA & CLOUD ]**
-
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## `> CERTIFICATIONS MATRIX`  `[70+ CERTIFICAÇÕES]`
-
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  CYBERSECURITY & PENTEST                                           ║
-╠════════════════════════════════════════════════════════════════════╣
-║  ◆ Fortinet Certified Fundamentals in Cybersecurity   [2024] FCF  ║
-║  ◆ Certified Agile Project Management                 [2024] GSDC ║
-║  ◆ Computer Forensics & Digital Forensics             [2023] UDMY ║
-║  ◆ Become a Cybersecurity Professional                [2023] LKDN ║
-║  ◆ Learning the OWASP Top 10                          [2023] LKDN ║
-║  ◆ Footprinting and Reconnaissance                    [2022] EC-C ║
-║  ◆ A nova geração em pentest                          [2022] DSEC ║
-║  ◆ Introdução ao Hacking e Pentest 2.0                [2022] SLYD ║
-║  ◆ Ethical Hacking Essentials                         [2021] ACAD ║
-║  ◆ Cybersecurity Essentials + Intro                   [2021] CSCO ║
-║  ◆ Fundamentos em Cibersegurança                      [2022] IBSC ║
-╠════════════════════════════════════════════════════════════════════╣
-║  CLOUD, DATA & DEV                                                 ║
-╠════════════════════════════════════════════════════════════════════╣
-║  ◆ Oracle Cloud Infrastructure AI Foundations         [2023] OCI  ║
-║  ◆ AWS SageMaker Master Class                         [2023] UDMY ║
-║  ◆ Fundamentos para Análise de Dados          [2023] MSFT+LKDN    ║
-║  ◆ Data Engineering Course                            [2023] ITRX ║
-║  ◆ What is Data Science?                              [2023] IBM  ║
-║  ◆ Full SQL · SQL Exam                         [2022/23] SFTB/TDM ║
-║  ◆ Python                                             [2022] SLYD ║
-║  ◆ CC50 — Harvard Intro to Computer Science           [2022] ESTD ║
-║  ◆ Lean Seis Sigma Yellow Belt                        [2022] FM2S ║
-╠════════════════════════════════════════════════════════════════════╣
-║  NETWORKS & INFRA                                                  ║
-╠════════════════════════════════════════════════════════════════════╣
-║  ◆ Treinamento MikroTik                               [2020] RDBR ║
-║  ◆ Redes EPON e GPON                                  [2021] INTB ║
-║  ◆ Introduction to IoT                                [2022] CSCO ║
-║  ◆ Lab Arquitetura e Redes                            [2022] UNCS ║
-║  ◆ Criando Infra na Nuvem                             [2022] RCOD ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> EXPERIENCE LOG`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  [2023 → NOW]  ██████████████████████████████  HIDRAULUC           │
-│  Gestor de TI · Contagem, MG                                        │
-│  → Infra · Segurança · Marketing Digital · CRM · Web · Design       │
-│                                                                     │
-│  [2021 → 2023] ████████████████████            WT TELECOM LTD      │
-│  Analista de Redes · Igarapé, MG                                    │
-│  → MikroTik · Fibra · GPON · NOC · Suporte técnico                  │
-│                                                                     │
-│  [2020 → 2022] █████████████████████████       SEMPRE INTERNET     │
-│  Analista de Redes · Igarapé, MG                                    │
-│  → Infraestrutura de rede · Instalações · Monitoramento             │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> EDUCATION`
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  UniCesumar · CST Gestão de TI         [DEZ 2021 – MAI 2024]       │
-│  Python · Redes · Gestão · Cibersegurança · EAD                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "Ninguém nasce perdedor ou vencedor.                          ║
-║     Você é o que escolhe ser."                                   ║
-║                                                                  ║
-║                              — Marcus Silva                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-**`[31] 99822-2532`** · **`marcusertech@gmail.com`** · **`Contagem · MG · Brasil`**
-
-</div>
+    
+    def __init__(self):
+        self.role = "IT Manager"
+        self.location = "Contagem, MG, Brazil"
+        self.experience = {
+            "current": "Hidrauluc (2023→) · IT Management",
+            "previous": ["WT TELECOM · Network Analyst", "SEMPRE INTERNET · Network Analyst"]
+        }
+        self.certifications = 70
+        self.learning_path = "Continuous · Cybersecurity & Cloud"
+        
+        self.tech_stack = {
+            "🔴 Offensive Security": ["Metasploit", "Nmap", "Wireshark", "Burp Suite", "John the Ripper"],
+            "🔵 Defensive Security": ["Fortinet", "OWASP Top 10", "Forensics", "Firewall/LGPD"],
+            "🌐 Networking": ["MikroTik", "GPON/EPON", "TCP/IP", "VPN", "DNS"],
+            "💻 Development": ["Python", "PHP", "SQL", "HTML/CSS", "Shell", "Dart"],
+            "☁️ Cloud & Data": ["Oracle Cloud", "AWS SageMaker", "Data Engineering", "BI"],
+            "📊 Business": ["Digital Marketing", "SEO", "Google Ads", "ERP Management"]
+        }
+    
+    def status(self) -> str:
+        return "🟢 ACTIVE · Available for strategic challenges"
+    
+    def philosophy(self) -> str:
+        return "Ninguém nasce vencedor. Você é o que escolhe ser."
+
+marcus = MarcusSilva()
+print(marcus.status())
+
+❯❯ STRATEGIC PROJECTS
+<table> <tr> <td width="50%" valign="top"> <h3>🛡️ D3F3ND — Anti-DDoS Engine</h3> <p><strong>Status:</strong> <code>PRODUCTION</code> | <strong>Stack:</strong> Python, Networking</p> <p>Mitigação de ataques DDoS em tempo real com análise de anomalias e resposta automatizada.</p> </td> <td width="50%" valign="top"> <h3>🔬 CYBER-LAB — Security Operations Framework</h3> <p><strong>Status:</strong> <code>R&D</code> | <strong>Stack:</strong> Python, SIEM, Automation</p> <p>Laboratório de pesquisa e monitoramento de ameaças para defesa proativa.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🏭 HYDRA-ERP — Industrial Management System</h3> <p><strong>Status:</strong> <code>PRODUCTION</code> | <strong>Stack:</strong> PHP, MySQL</p> <p>ERP completo para gestão industrial: pedidos, estoque, financeiro e KPIs.</p> </td> <td width="50%" valign="top"> <h3>🤖 INVENT.AI — Smart Inventory AI Scanner</h3> <p><strong>Status:</strong> <code>BETA</code> | <strong>Stack:</strong> Python, Computer Vision, AI</p> <p>Leitura e identificação de produtos por visão computacional para automação de estoque.</p> </td> </tr> <tr> <td width="50%" valign="top"> <h3>📦 TRACK.HYD — QR Code Hydraulic Management</h3> <p><strong>Status:</strong> <code>PRODUCTION</code> | <strong>Stack:</strong> PHP, MySQL, QR Code</p> <p>Rastreabilidade industrial para mangueiras e conexões hidráulicas.</p> </td> <td width="50%" valign="top"> <h3>🌐 HIDRAULUC.DIGITAL — Web Ecosystem</h3> <p><strong>Status:</strong> <code>LIVE</code> | <strong>Stack:</strong> SEO, Google Ads, Analytics</p> <p>Plataforma digital completa com geração de leads e presença online otimizada.</p> </td> </tr> </table>
+❯❯ CORE COMPETENCIES
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,php,mysql,kali,linux,aws,oracle,html,css,dart,git,vscode" /> </p><p align="center"> <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/> <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white"/> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/> </p>
+❯❯ CERTIFICATION HIGHLIGHTS
+text
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  CYBERSECURITY                                                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ▪ Fortinet Certified Fundamentals in Cybersecurity         (2024) ████████ │
+│  ▪ Certified Agile Project Management                        (2024) ████████ │
+│  ▪ Computer & Digital Forensics                              (2023) ████████ │
+│  ▪ OWASP Top 10 Practitioner                                 (2023) ████████ │
+│  ▪ Ethical Hacking Essentials                                (2021) ████████ │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  CLOUD, DATA & DEVELOPMENT                                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ▪ Oracle Cloud AI Foundations                               (2023) ████████ │
+│  ▪ AWS SageMaker Master Class                                (2023) ████████ │
+│  ▪ Data Engineering Certificate                              (2023) ████████ │
+│  ▪ Full SQL Mastery                                          (2022) ████████ │
+│  ▪ Python Development                                        (2022) ████████ │
+│  ▪ CC50 — Harvard CS50                                       (2022) ████████ │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  NETWORKING                                                                 │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  ▪ MikroTik Certified                                       (2020) █████████ │
+│  ▪ GPON/EPON Fiber Networks                                 (2021) █████████ │
+│  ▪ Cloud Infrastructure Design                              (2022) █████████ │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+Total: 70+ Certifications & Continuing
+
+❯❯ PROFESSIONAL TIMELINE
+❯❯ EDUCATION
+text
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  🎓 UniCesumar · Technology in IT Management                                │
+│     Dec 2021 – May 2024                                                     │
+│     Focus: Python, Networks, Cybersecurity, Cloud, Management              │
+│     📍 EAD · Brazil                                                         │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+❯❯ STATISTICS
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcustechs&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00F0FF&icon_color=00F0FF&text_color=CCCCCC&border_radius=8&border_color=00F0FF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcustechs&layout=compact&theme=dark&bg_color=0A0A0A&title_color=00F0FF&text_color=CCCCCC&border_radius=8&border_color=00F0FF&langs_count=6"/> </p><p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=marcustechs&theme=darkhub&no-frame=true&row=2&column=4&margin-w=12&margin-h=12"/> </p>
+❯❯ CONTACT & NETWORK
+<p align="center"> <b>📞 +55 31 99822-2532</b> &nbsp;|&nbsp; <b>✉️ marcusertech@gmail.com</b> &nbsp;|&nbsp; <b>📍 Contagem, MG · Brazil</b> </p><p align="center"> <i>“Ninguém nasce perdedor ou vencedor. Você é o que escolhe ser.”</i> <br/>— Marcus Silva </p><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=80&section=footer"/> </p> ```
+
+Pronto! É só copiar tudo acima e colar no seu arquivo README.md. Ficará perfeito! 🚀

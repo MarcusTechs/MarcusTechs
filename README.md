@@ -193,9 +193,9 @@ TYPE    Web Platform + Digital Growth
 ## `> CERTIFICATIONS MATRIX`  `[70+ CERTIFICAÇÕES]`
 
 ```
-╔════════════════════════════════════════════════════════════════════╗
-║  CYBERSECURITY & PENTEST                                           ║
-╠════════════════════════════════════════════════════════════════════╣
+╔═══════════════════════════════════════════════════════════════════╗
+║  CYBERSECURITY & PENTEST                                          ║
+╠═══════════════════════════════════════════════════════════════════╣
 ║  ◆ Fortinet Certified Fundamentals in Cybersecurity   [2024] FCF  ║
 ║  ◆ Certified Agile Project Management                 [2024] GSDC ║
 ║  ◆ Computer Forensics & Digital Forensics             [2023] UDMY ║
@@ -207,9 +207,9 @@ TYPE    Web Platform + Digital Growth
 ║  ◆ Ethical Hacking Essentials                         [2021] ACAD ║
 ║  ◆ Cybersecurity Essentials + Intro                   [2021] CSCO ║
 ║  ◆ Fundamentos em Cibersegurança                      [2022] IBSC ║
-╠════════════════════════════════════════════════════════════════════╣
-║  CLOUD, DATA & DEV                                                 ║
-╠════════════════════════════════════════════════════════════════════╣
+╠═══════════════════════════════════════════════════════════════════╣
+║  CLOUD, DATA & DEV                                                ║
+╠═══════════════════════════════════════════════════════════════════╣
 ║  ◆ Oracle Cloud Infrastructure AI Foundations         [2023] OCI  ║
 ║  ◆ AWS SageMaker Master Class                         [2023] UDMY ║
 ║  ◆ Fundamentos para Análise de Dados          [2023] MSFT+LKDN    ║
@@ -219,15 +219,15 @@ TYPE    Web Platform + Digital Growth
 ║  ◆ Python                                             [2022] SLYD ║
 ║  ◆ CC50 — Harvard Intro to Computer Science           [2022] ESTD ║
 ║  ◆ Lean Seis Sigma Yellow Belt                        [2022] FM2S ║
-╠════════════════════════════════════════════════════════════════════╣
-║  NETWORKS & INFRA                                                  ║
-╠════════════════════════════════════════════════════════════════════╣
+╠═══════════════════════════════════════════════════════════════════╣
+║  NETWORKS & INFRA                                                 ║
+╠═══════════════════════════════════════════════════════════════════╣
 ║  ◆ Treinamento MikroTik                               [2020] RDBR ║
 ║  ◆ Redes EPON e GPON                                  [2021] INTB ║
 ║  ◆ Introduction to IoT                                [2022] CSCO ║
 ║  ◆ Lab Arquitetura e Redes                            [2022] UNCS ║
 ║  ◆ Criando Infra na Nuvem                             [2022] RCOD ║
-╚════════════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -237,15 +237,15 @@ TYPE    Web Platform + Digital Growth
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│  [2023 → NOW]  ██████████████████████████████  HIDRAULUC           │
+│  [2023 → NOW]  ██████████████████████████████  HIDRAULUC            │
 │  Gestor de TI · Contagem, MG                                        │
 │  → Infra · Segurança · Marketing Digital · CRM · Web · Design       │
 │                                                                     │
-│  [2021 → 2023] ████████████████████            WT TELECOM LTD      │
+│  [2021 → 2023] ████████████████████            WT TELECOM LTD       │
 │  Analista de Redes · Igarapé, MG                                    │
 │  → MikroTik · Fibra · GPON · NOC · Suporte técnico                  │
 │                                                                     │
-│  [2020 → 2022] █████████████████████████       SEMPRE INTERNET     │
+│  [2020 → 2022] █████████████████████████       SEMPRE INTERNET      │
 │  Analista de Redes · Igarapé, MG                                    │
 │  → Infraestrutura de rede · Instalações · Monitoramento             │
 │                                                                     │
@@ -258,11 +258,16 @@ TYPE    Web Platform + Digital Growth
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  UniCesumar · CST Gestão de TI         [DEZ 2021 – MAI 2024]       │
+│  UniCesumar · CST Gestão de TI         [DEZ 2021 – MAI 2024]        │
 │  Python · Redes · Gestão · Cibersegurança · EAD                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
-
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  UniCesumar · Ciência da computação       [DEZ 2024 – Now]          │
+│  infra · Redes · dev · Cibersegurança                               │
+└─────────────────────────────────────────────────────────────────────┘
+```
 ---
 
 <div align="center">

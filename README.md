@@ -48,107 +48,86 @@ class MarcusSilva:
 ---
 
 ## `> ACTIVE PROJECTS`
-
 <table>
 <tr>
 <td width="50%">
 
 ### `[01]` Anti-DDoS Engine
-
 ```text
 STATUS  ████████████ ACTIVE
 TYPE    Security Platform · Python
 ```
-
 > Plataforma de mitigação de ataques distribuídos em tempo real. Analisa padrões de tráfego, detecta anomalias e aplica respostas automáticas para proteção da infraestrutura.
 
 `#Python` `#Networking` `#Security` `#Automation` `#DefOps`
 
 </td>
-
 <td width="50%">
 
 ### `[02]` Security Operations Framework
-
 ```text
 STATUS  ████████████ ACTIVE
 TYPE    Cyber Defense Lab
 ```
-
 > Ambiente para pesquisa, monitoramento e desenvolvimento de soluções defensivas voltadas para segurança de redes, análise de ameaças e automação operacional.
 
 `#Cybersecurity` `#Automation` `#Python` `#Networking` `#Monitoring`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
-### `[03]` Industrial Management System
-
+### `[03]` F2U ERP
 ```text
-STATUS  ████████████ PRODUCTION
+STATUS  ████████████ OPEN SOURCE
 TYPE    ERP · PHP + MySQL
 ```
+> Sistema ERP completo e gratuito com PDV, NF-e, controle de estoque, orçamentos e dashboard. Desenvolvido para pequenas e médias empresas brasileiras.
 
-> Sistema completo de gerenciamento industrial desenvolvido para centralizar clientes, pedidos, produção, estoque, financeiro e indicadores operacionais da empresa.
+🔗 **[github.com/MarcusTechs/f2u-erp](https://github.com/MarcusTechs/f2u-erp)**
 
-`#PHP` `#MySQL` `#ERP` `#Dashboard` `#Business`
+`#PHP` `#MySQL` `#ERP` `#NFe` `#OpenSource`
 
 </td>
-
 <td width="50%">
 
 ### `[04]` Smart Inventory AI Scanner
-
 ```text
 STATUS  ████████████ ACTIVE
 TYPE    Computer Vision · AI
 ```
-
 > Sistema inteligente de leitura e identificação de produtos utilizando Inteligência Artificial para conferência de estoque, inventários e automação de processos logísticos.
 
 `#AI` `#ComputerVision` `#Python` `#Automation` `#Inventory`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
 ### `[05]` QR Code Hydraulic Management
-
 ```text
 STATUS  ████████████ PRODUCTION
 TYPE    Industrial Tracking System
 ```
-
 > Plataforma de rastreabilidade baseada em QR Code para mangueiras, conexões e componentes hidráulicos, permitindo histórico completo, identificação rápida e gestão operacional.
 
 `#QRCode` `#Tracking` `#Industry` `#PHP` `#MySQL`
 
 </td>
-
 <td width="50%">
 
 ### `[06]` hidrauluc.com.br
-
 ```text
 STATUS  ████████████ LIVE
 TYPE    Web Platform + Digital Growth
 ```
-
 > Ecossistema digital completo da empresa incluindo website institucional, SEO, campanhas Google Ads, analytics, conteúdo e estratégias de geração de leads.
 
 `#Web` `#SEO` `#Marketing` `#GoogleAds` `#Analytics`
 
 </td>
-
 </tr>
 </table>
 

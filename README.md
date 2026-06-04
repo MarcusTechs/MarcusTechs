@@ -111,10 +111,11 @@ TYPE    Computer Vision · AI
 STATUS  ████████████ PRODUCTION
 TYPE    Industrial Tracking System
 ```
-> Plataforma de rastreabilidade baseada em QR Code para mangueiras, conexões e componentes hidráulicos, permitindo histórico completo, identificação rápida e gestão operacional.
+> Plataforma de gestão e rastreabilidade de ativos industriais utilizando QR Codes, permitindo controle de manutenção, vencimentos, documentos, checklists e histórico completo de equipamentos em campo.
 
-`#QRCode` `#Tracking` `#Industry` `#PHP` `#MySQL`
+🔗 **[github.com/MarcusTechs/hidrauluc-tracker](https://github.com/MarcusTechs/hidrauluc-tracker)**
 
+`#QRCode` `#AssetManagement` `#Industry` `#PHP` `#MySQL`
 </td>
 <td width="50%">
 

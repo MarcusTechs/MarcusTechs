@@ -118,14 +118,18 @@ TYPE    Industrial Tracking System
 </td>
 <td width="50%">
 
-### `[06]` hidrauluc.com.br
+### `[06]` Hidrauluc Industrial Platform
+
 ```text
 STATUS  ████████████ LIVE
-TYPE    Web Platform + Digital Growth
+TYPE    Industrial Platform · PHP + MySQL
 ```
-> Ecossistema digital completo da empresa incluindo website institucional, SEO, campanhas Google Ads, analytics, conteúdo e estratégias de geração de leads.
 
-`#Web` `#SEO` `#Marketing` `#GoogleAds` `#Analytics`
+> Plataforma industrial completa com catálogo técnico de produtos, calculadora hidráulica inteligente, blog especializado, avaliações integradas e ferramentas voltadas para geração de leads e suporte técnico.
+
+🔗 **[github.com/MarcusTechs/hidrauluc-industrial-platform](https://github.com/MarcusTechs/hidrauluc-industrial-platform)**
+
+`#PHP` `#MySQL` `#Industrial` `#Engineering` `#SEO`
 
 </td>
 </tr>

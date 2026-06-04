@@ -113,7 +113,7 @@ TYPE    Industrial Tracking System
 ```
 > Plataforma de gestão e rastreabilidade de ativos industriais utilizando QR Codes, permitindo controle de manutenção, vencimentos, documentos, checklists e histórico completo de equipamentos em campo.
 
-🔗 **[github.com/MarcusTechs/hidrauluc-tracker](https://github.com/MarcusTechs/hidrauluc-tracker)**
+🔗 **[github.com/MarcusTechs/hidrauluc-tracker](https://github.com/MarcusTechs/QR-Code-Hydraulic-Management)**
 
 `#QRCode` `#AssetManagement` `#Industry` `#PHP` `#MySQL`
 </td>

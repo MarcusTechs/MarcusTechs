@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/◈%20LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-silva-874bba268/)
-[![Portfolio](https://img.shields.io/badge/◈%20PORTFÓLIO-00FF41?style=flat-square&logo=githubpages&logoColor=black)](https://marcustechs.github.io/portefolio/index.html)
 [![Email](https://img.shields.io/badge/◈%20EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:marcusertech@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=marcustechs&color=00ff41&style=flat-square&label=◈+PROFILE+VIEWS)](https://github.com/MarcusTechs)
 
